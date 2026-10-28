@@ -232,7 +232,7 @@ cricket-match-winner-prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/cricket-match-winner-prediction.git
+git clone https://github.com/nalinimehta32-star/cricket-match-winner-prediction.git
 cd cricket-match-winner-prediction
 
 # Create virtual environment
